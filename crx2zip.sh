@@ -25,7 +25,8 @@ function checkDeps(){
 
 function showUsage(){
     echo "Usage: $(basename $0) [-h|--help|help|crx-file]"
-    echo "    Convert Chromium .CRX file to .ZIP"
+    echo
+    echo "Convert Chromium .CRX file to .ZIP"
     echo "    Executing without any argument causes the script to ask for the crx-file name"
     echo "    Arguments:"
     echo "       [crx-file] - the CRX filename you want to convert to ZIP"
