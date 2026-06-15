@@ -15,3 +15,4 @@ Finally it is stripping the offset bytes from the CRX using **dd**, and produces
 
 - original script by Rowan H - 8/20/2015 ( https://scramble45.github.io/ )
 - Gergely Nagy - 6/15/2026 ( https://github.com/gnanet/crx2zip )
+  idea taken from https://github.com/akhileshthite/chrome-extension-fetch/blob/main/index.js
